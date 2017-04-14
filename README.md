@@ -36,7 +36,7 @@
 
 ## 转换模型
 
-基于Leap Motion的机械臂交互控制研究（https://wenku.baidu.com/view/7a4af3e4fad6195f302ba6b0.html?re=view）
+基于Leap Motion的机械臂交互控制研究(https://wenku.baidu.com/view/7a4af3e4fad6195f302ba6b0.html?re=view)
 
 ## 项目组成员
 
