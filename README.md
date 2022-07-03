@@ -16,7 +16,7 @@
   
 ## 硬件平台
 
-控制芯片采用Arduino（我才不会说是组成员懒得进行底层开发）
+控制芯片采用Arduino
 
 机械臂为6自由度：钳口关节×1，腕关节×1，肘关节×3，肩关节×1
 
@@ -37,11 +37,3 @@
 ## 转换模型
 
 [基于Leap Motion的机械臂交互控制研究](https://wenku.baidu.com/view/7a4af3e4fad6195f302ba6b0.html?re=view)
-
-## 项目组成员
-
-YYX.Kang
-
-W.Zheng
-
-SL.Li
