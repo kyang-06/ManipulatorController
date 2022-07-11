@@ -34,6 +34,6 @@
 
 上位机和Ardunio目前采用串口调试进行通信。
 
-## 转换模型
+## 算法模型
 
 [基于Leap Motion的机械臂交互控制研究](https://wenku.baidu.com/view/7a4af3e4fad6195f302ba6b0.html?re=view)
