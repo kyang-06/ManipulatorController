@@ -36,4 +36,4 @@
 
 ## 算法模型
 
-[基于Leap Motion的机械臂交互控制研究](https://wenku.baidu.com/view/7a4af3e4fad6195f302ba6b0.html?re=view)
+[基于Leap Motion的机械臂交互控制研究](https://1drv.ms/b/s!AueMCSJ2EDkShN40muph_fh21nCF_w?e=BGmseo)
